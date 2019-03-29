@@ -3,3 +3,4 @@ Hello World!
 Another Commit
 Hello World!
 New Commit
+Hello Worldgit log --graphgit log --graphgit log --graph!
